@@ -1,4 +1,4 @@
-# Corpus_Analysis_HW1
+# CSI 5180 HW2: Corpus Analysis
 **'FinanceInc's Auditor Sentiment` dataset from HuggingFace analyzed. Top Log-Likelihood Ratio tokens returned, top ten topics returned(based on conditions), and top topics for each classifier returned.**
 
 ## Files / Folders
